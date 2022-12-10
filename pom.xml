@@ -15,7 +15,7 @@
 
 
     <properties>
-        <spring.version>5.1.4.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <servlet.version>2.5</servlet.version>
         <jsp.version>2.1</jsp.version>
         <mybatis-spring>2.0.1</mybatis-spring>
